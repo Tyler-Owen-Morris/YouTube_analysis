@@ -61,6 +61,14 @@ We found that Likes + Dislikes is the best predictor of views. Likes is good, bu
 ![graph](images/likes1.png)
 ![graph](images/likes2.png)
 
+### Top and bottom 1000 viewed videos by country
+
+![graph](images/topbot1k_bycountry2.png)
+
+### Total video sample vs Unique video sample by country
+
+![graph](images/totals_bycountry1.png)
+
 ### Views by Dislikes
 
 ![graph](images/viewsVdislikes_bycountry1.png)
